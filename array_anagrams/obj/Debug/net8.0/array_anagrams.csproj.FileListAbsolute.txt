@@ -1,0 +1,14 @@
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/bin/Debug/net8.0/array_anagrams
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/bin/Debug/net8.0/array_anagrams.deps.json
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/bin/Debug/net8.0/array_anagrams.runtimeconfig.json
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/bin/Debug/net8.0/array_anagrams.dll
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/bin/Debug/net8.0/array_anagrams.pdb
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/obj/Debug/net8.0/array_anagrams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/obj/Debug/net8.0/array_anagrams.AssemblyInfoInputs.cache
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/obj/Debug/net8.0/array_anagrams.AssemblyInfo.cs
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/obj/Debug/net8.0/array_anagrams.csproj.CoreCompileInputs.cache
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/obj/Debug/net8.0/array_anagrams.dll
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/obj/Debug/net8.0/refint/array_anagrams.dll
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/obj/Debug/net8.0/array_anagrams.pdb
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/obj/Debug/net8.0/array_anagrams.genruntimeconfig.cache
+/Users/valero/RiderProjects/ConsoleApp4/array_anagrams/obj/Debug/net8.0/ref/array_anagrams.dll
